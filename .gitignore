@@ -1,0 +1,16 @@
+# PyCharm ayarları
+#.idea/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Diğer
+*.log
+.DS_Store
